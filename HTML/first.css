@@ -1,0 +1,39 @@
+body {
+    /* background-color: black; */
+    /* background-image: url('Noogler_tshirt.jpg'); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: 100% 100%;
+}
+p {
+    text-align: center;
+    color: blue;
+    font-family: cursive;
+    border: 2px solid palevioletred;
+    padding: 30px;
+    margin: 50px;
+}
+a:link {
+    /* background-color: green; */
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:active {
+    color: darkred;
+}
+
+img {
+    background-color: aqua;
+    border: 0in;
+}
