@@ -1,0 +1,44 @@
+/* body {
+    background-color:rgba(7, 5, 5,0.3);
+    background-image: url('/Noogler_tshirt.jpg');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+} */
+
+p {
+    border: 1px solid black;
+    border-style: dashed;
+    /* margin: 30px 20px 2px 20px;  */
+    padding: 10px 20px 30px 40px;
+    width: 150px;
+    box-sizing: border-box; 
+}
+
+div {
+    border: 1px solid black;
+    height: 50px;
+    width: 100%;
+
+}
+
+#El1 {
+    height:200px;
+    width: 50%;
+    background-color: powderblue;
+}  
+
+#El2 {
+    max-width: 500px;
+    height:200px;
+    background-color: powderblue;
+}  
+#El3 {
+    text-align: center;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
+
+
+
